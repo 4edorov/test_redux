@@ -7,6 +7,11 @@ cd my-app/
 npm start
 ```
 Install [Redux](http://redux.js.org/)
+- redux
+```$xslt
+npm install --save redux
+```
+- react-redux
 ```$xslt
 npm install --save react-redux
 ```
